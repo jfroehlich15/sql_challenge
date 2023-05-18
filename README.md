@@ -1,6 +1,6 @@
 # sql_challenge
 
-The folder "EmloyeeSQL" contains all the sql files and data used for this challenge.
+The folder "EmployeeSQL" contains all the sql files and data used for this challenge.
 
 Within the "data" folder is the 6 data csv files that were provided to complete the project.
 
